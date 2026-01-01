@@ -1,0 +1,7 @@
+Keyword Frequency Report 
+--------------------------
+CLAIM APPROVED: 2
+CLAIM REJECTED: 2
+CLAIM PENDING: 1
+INVALID: 2
+PROCESSED: 2
